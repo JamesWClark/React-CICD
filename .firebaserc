@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "cicd-23f10"
-  }
+    "default": "cicd-23f10",
+    "react-cicd": "cicd-23f10"
+  },
+  "targets": {},
+  "etags": {}
 }
