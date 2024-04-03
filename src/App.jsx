@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>Simple React App! asdf</div>
+      <div>Simple React App! asdfqwer</div>
       <hr />
     </>
   )
