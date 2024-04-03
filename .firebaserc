@@ -3,6 +3,14 @@
     "default": "cicd-23f10",
     "react-cicd": "cicd-23f10"
   },
-  "targets": {},
+  "targets": {
+    "cicd-23f10": {
+      "hosting": {
+        "prod": [
+          "cicd-23f10"
+        ]
+      }
+    }
+  },
   "etags": {}
 }
