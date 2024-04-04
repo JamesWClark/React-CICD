@@ -1,8 +1,5 @@
 {
-  "projects": {
-    "default": "cicd-23f10",
-    "react-cicd": "cicd-23f10"
-  },
+  "projects": {},
   "targets": {
     "cicd-23f10": {
       "hosting": {
