@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>Simple React App! 1234</div>
+      <div>S App</div>
       <hr />
     </>
   )
