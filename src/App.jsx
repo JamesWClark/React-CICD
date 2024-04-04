@@ -7,7 +7,6 @@ function App() {
   return (
     <>
       <div>Simple React App</div>
-      <hr />
     </>
   )
 }
